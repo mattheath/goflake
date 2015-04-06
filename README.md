@@ -1,7 +1,9 @@
 # Goflake
 
-[![Build Status](https://travis-ci.org/mattheath/goflake.svg?branch=master)](https://travis-ci.org/mattheath/goflake)
+__For a larger ID space or more configuration options - try [mattheath/kala](https://github.com/mattheath/kala)__
 
+
+[![Build Status](https://travis-ci.org/mattheath/goflake.svg?branch=master)](https://travis-ci.org/mattheath/goflake)
 
 Goflake is an implementation of [Twitter's Snowflake](https://github.com/twitter/snowflake/) in Go based on [sdming/gosnow](https://github.com/sdming/gosnow) and [davegardnerisme/cruftflake](https://github.com/davegardnerisme/cruftflake).
 
